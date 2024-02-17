@@ -1,6 +1,6 @@
 import React from 'react'
 
-function playbutton(props) {
+function Playbutton(props) {
   return (
     <div>
         <button {...props}>
@@ -13,4 +13,4 @@ function playbutton(props) {
   )
 }
 
-export default playbutton
+export default Playbutton
